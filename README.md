@@ -318,4 +318,5 @@ Para testar a API do projeto utilizando o **Postman**, você pode seguir as inst
 }
 ```#   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
  #   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
+ #   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
  
