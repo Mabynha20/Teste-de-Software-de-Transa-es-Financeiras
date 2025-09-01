@@ -1,3 +1,4 @@
+
 # Sistema de Controle Financeiro
 
 Este projeto oferece uma solução simples para o gerenciamento de transações financeiras, com funcionalidades para adicionar, listar, remover transações e calcular o saldo. A aplicação foi construída utilizando o Python com Flask, e a persistência de dados é realizada por meio de arquivos JSON.
@@ -6,7 +7,7 @@ Este projeto oferece uma solução simples para o gerenciamento de transações 
 
 Você pode encontrar o código-fonte completo deste projeto no repositório do GitHub:
 
-[https://github.com/Mabynha20/Teste-de-Software-de-Transa-es-Financeiras.git]
+[https://github.com/Mabynha20/Teste-de-Software-de-Transa-es-Financeiras.git](https://github.com/Mabynha20/Teste-de-Software-de-Transa-es-Financeiras.git)
 
 ### Como Usar o Projeto a Partir do GitHub
 
@@ -316,7 +317,8 @@ Para testar a API do projeto utilizando o **Postman**, você pode seguir as inst
 {
     "error": "Tipo deve ser 'entrada' ou 'saida'"
 }
-```#   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
- #   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
- #   T e s t e - d e - S o f t w a r e - d e - T r a n s a - e s - F i n a n c e i r a s  
- 
+```
+
+- **Conclusão**:
+
+Com esse passo a passo e todas as especificações desse projeto, é possível que o usuário utilize e explore tudo o que ele tem a oferecer, verificando as funcionalidades do código fonte, os testes realizados e as avaliações das rotas de cada função, tudo isso além de poder rodar diretamente no terminal. Faça um bom proveito desse dedicado e interessante projeto, e por gentileza, fique à vontade para comentar possíveis melhorias futuras.
